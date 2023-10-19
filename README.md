@@ -1,8 +1,4 @@
-# TGraM 
-
-## Dataset
-
-* **AIR-MOT**
+# AIR-MOT
 
   The self-built AIR-MOT dataset can be downloaded from https://drive.google.com/drive/folders/1zfvhKOGmvZVWUgbE8l3LL9uude0bBg-O?usp=sharing. We have released 70 videos, and the rest will be available soon.
   
