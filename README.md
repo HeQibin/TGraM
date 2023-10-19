@@ -5,11 +5,9 @@
   
 ## Paper
 
-Please cite our paper if you find the code or dataset useful for your research.
-
 ```
 @ARTICLE{He-TGRS-TGraM-2022,
-  author={Q. {He} and X. {Sun} and Z. {Yan} and B. {Li} and K. {Fu}},
+  author={Q. He and X. Sun and Z. Yan and B. Li and K. Fu},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Multi-Object Tracking in Satellite Videos with Graph-Based Multi-Task Modeling}, 
   year={2022},
